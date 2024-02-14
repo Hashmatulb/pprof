@@ -1,2 +1,2 @@
 # pprof
-endringer i README fil.
+Jeg har lagt til endringer i README fil.
